@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "682184982057",
+    "project_id": "visionverse-52ae7",
+    "storage_bucket": "visionverse-52ae7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682184982057:android:93685ffe52cc63db0c2638",
+        "android_client_info": {
+          "package_name": "com.ashutoshparahu.visionverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa37z31aMtCuOm62ooi_aaAs_jUglrcdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682184982057:android:8584df266f5ceb0a0c2638",
+        "android_client_info": {
+          "package_name": "com.example.visionverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa37z31aMtCuOm62ooi_aaAs_jUglrcdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
